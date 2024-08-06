@@ -4,5 +4,6 @@
     "project_description": "add an app to find new ethereum transactions",
     "creation_time": "2024-08-06 13:31:00.402433",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The website utilizes a dark-themed color scheme with deep blues and purples, complemented by gradients and neon accents for emphasis. The style is modern with minimalist fonts, clear sections, and a combination of graphical elements such as icons and grid lines for a sleek, futuristic look."
 }
